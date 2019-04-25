@@ -171,6 +171,7 @@ img {
 nav {
   display: flex;
   justify-content: flex-end;
+  border-bottom: 3.3px dashed #dadada;
 }
 nav a {
   margin-left: 20px;
@@ -234,4 +235,9 @@ nav a {
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
+}
+header {
+  border-bottom: 3.3px dashed #dadada;
+  margin: 20px 0;
+  padding: 20px 0;
 }
